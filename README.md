@@ -1,1 +1,1 @@
-log template of game class basics
+version 2 of application builder python 
